@@ -2,22 +2,16 @@
 A passionate Full-Stack Developer and Problem Solver who thrives on crafting efficient, scalable web applications that connect cutting-edge technology with real-world functionality. Welcome to my profile!
 
 🛠️ Technologies & Tools
-
 Frontend
 React | Redux | JavaScript
 Bootstrap | Material UI | CSS | HTML
-
 Backend
 Node.js | Express.js
 MySQL | MongoDB
 Other Tools
-
 Git | GitHub | Postman
 Responsive Design | RESTful APIs | Authentication (JWT, OAuth)
-
-
 📚 Education
-
 Full Stack Web Development Bootcamp
 Evangadi Networks, Maryland, USA | January 2024 – August 2024
 Gained comprehensive full-stack skills, starting with front-end basics, progressing through advanced JavaScript, backend development, and database management to create complete, user-focused web applications.
@@ -30,16 +24,11 @@ Bachelor’s in Electrical & Computer Engineering
 Jijiga University, Institute of Technology (JJU), Ethiopia | September 2016 - January 2021
 Focused on Power Engineering, acquiring deep expertise in electrical systems, power generation, and distribution.
 
-
 💻 Tech Proficiencies
-
 Core Technologies: HTML, CSS, JavaScript, React, Node.js, MySQL
 Current Focus: API development, Authentication systems, Optimized deployments
 Passions: Open-source contributions, Collaborative projects, Lifelong learning
-
-
 🔥 Key Projects
-
 🚗 Garage Management System
 A complete solution for managing garage operations with employee, customer, and vehicle tracking.
 Tech Stack: Node.js, Express.js, MySQL, React, Bootstrap
@@ -65,13 +54,9 @@ A full-stack movie streaming platform inspired by Netflix.
 Tech Stack: React, Firebase, TMDB API
 🔗 https://netflix-clone-january2024.web.app/
 
-
 🔍 Find Me Online
-
 🌐 Portfolio: https://seidweb.com/
-
 💼 LinkedIn: https://www.linkedin.com/in/seid-endris-dev/
-
 📧 Email: mymom0937@gmail.com
 
 Let’s Connect!
