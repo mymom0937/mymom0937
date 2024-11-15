@@ -2,8 +2,8 @@
 A passionate Full-Stack Developer and Problem Solver who thrives on crafting efficient, scalable web applications that connect cutting-edge technology with real-world functionality. Welcome to my profile!
 
 🛠️ Technologies & Tools
-Frontend
 
+Frontend
 React | Redux | JavaScript
 Bootstrap | Material UI | CSS | HTML
 Backend
@@ -17,6 +17,8 @@ Responsive Design | RESTful APIs | Authentication (JWT, OAuth)
 
 
 📚 Education
+
+
 Full Stack Web Development Bootcamp
 Evangadi Networks, Maryland, USA | January 2024 – August 2024
 Gained comprehensive full-stack skills, starting with front-end basics, progressing through advanced JavaScript, backend development, and database management to create complete, user-focused web applications.
@@ -31,6 +33,8 @@ Focused on Power Engineering, acquiring deep expertise in electrical systems, po
 
 
 💻 Tech Proficiencies
+
+
 Core Technologies: HTML, CSS, JavaScript, React, Node.js, MySQL
 Current Focus: API development, Authentication systems, Optimized deployments
 Passions: Open-source contributions, Collaborative projects, Lifelong learning
