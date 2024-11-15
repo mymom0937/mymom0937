@@ -36,6 +36,8 @@ Focused on Power Engineering, acquiring deep expertise in electrical systems, po
 Core Technologies: HTML, CSS, JavaScript, React, Node.js, MySQL
 Current Focus: API development, Authentication systems, Optimized deployments
 Passions: Open-source contributions, Collaborative projects, Lifelong learning
+
+
 🔥 Key Projects
 🚗 Garage Management System
 A complete solution for managing garage operations with employee, customer, and vehicle tracking.
