@@ -4,6 +4,7 @@ A passionate Full-Stack Developer and Problem Solver who thrives on crafting eff
 
 
 🛠️ Technologies & Tools
+
 Frontend
 React | Redux | JavaScript
 Bootstrap | Material UI | CSS | HTML
@@ -18,14 +19,17 @@ Responsive Design | RESTful APIs | Authentication (JWT, OAuth)
 
 Full Stack Web Development Bootcamp
 Evangadi Networks, Maryland, USA | January 2024 – August 2024
+
 Gained comprehensive full-stack skills, starting with front-end basics, progressing through advanced JavaScript, backend development, and database management to create complete, user-focused web applications.
 
 Master’s in Electrical Power & Control Engineering
 Adama Science and Technology University (ASTU), Ethiopia | September 2021 - December 2023
+
 Specialized in Power Systems Engineering, developing advanced knowledge in power system control and analysis.
 
 Bachelor’s in Electrical & Computer Engineering
 Jijiga University, Institute of Technology (JJU), Ethiopia | September 2016 - January 2021
+
 Focused on Power Engineering, acquiring deep expertise in electrical systems, power generation, and distribution.
 
 💻 Tech Proficiencies
@@ -36,27 +40,27 @@ Passions: Open-source contributions, Collaborative projects, Lifelong learning
 
 🔥 Key Projects
 
-🚗 Garage Management System
+🚗 Garage Management System: 
 A complete solution for managing garage operations with employee, customer, and vehicle tracking.
 Tech Stack: Node.js, Express.js, MySQL, React, Bootstrap
 🔗 https://abegarage.seidweb.com/
 
-🎓 Student Q&A Platform
+🎓 Student Q&A Platform: 
 An interactive space for students to share knowledge, ask questions, and engage.
 Tech Stack: React, Node.js, MySQL, Material UI
 🔗 https://evaganditechforumprojectfrontend.seidweb.com/
 
-🍎 Apple Clone
+🍎 Apple Clone: 
 A pixel-perfect front-end clone of the Apple website.
 Tech Stack: HTML, CSS, JavaScript
 🔗 https://cloned-by-seid11.netlify.app/
 
-🛒 Amazon Clone
+🛒 Amazon Clone: 
 An e-commerce front-end replica of Amazon with shopping cart functionality.
 Tech Stack: React, Redux, Firebase
 🔗 https://amazon-clone-project-totally.netlify.app/
 
-🎥 Netflix Clone
+🎥 Netflix Clone: 
 A full-stack movie streaming platform inspired by Netflix.
 Tech Stack: React, Firebase, TMDB API
 🔗 https://netflix-clone-january2024.web.app/
