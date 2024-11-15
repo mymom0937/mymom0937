@@ -39,6 +39,7 @@ Passions: Open-source contributions, Collaborative projects, Lifelong learning
 
 
 🔥 Key Projects
+
 🚗 Garage Management System
 A complete solution for managing garage operations with employee, customer, and vehicle tracking.
 Tech Stack: Node.js, Express.js, MySQL, React, Bootstrap
