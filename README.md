@@ -65,6 +65,7 @@ A full-stack movie streaming platform inspired by Netflix.
 Tech Stack: React, Firebase, TMDB API
 🔗 https://netflix-clone-january2024.web.app/
 
+
 🔍 Find Me Online
 
 🌐 Portfolio: https://seidweb.com/
