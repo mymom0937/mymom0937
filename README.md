@@ -63,8 +63,11 @@ Tech Stack: React, Firebase, TMDB API
 🔗 https://netflix-clone-january2024.web.app/
 
 🔍 Find Me Online
+
 🌐 Portfolio: https://seidweb.com/
+
 💼 LinkedIn: https://www.linkedin.com/in/seid-endris-dev/
+
 📧 Email: mymom0937@gmail.com
 
 Let’s Connect!
