@@ -14,6 +14,8 @@ Other Tools
 
 Git | GitHub | Postman
 Responsive Design | RESTful APIs | Authentication (JWT, OAuth)
+
+
 📚 Education
 Full Stack Web Development Bootcamp
 Evangadi Networks, Maryland, USA | January 2024 – August 2024
@@ -26,6 +28,7 @@ Specialized in Power Systems Engineering, developing advanced knowledge in power
 Bachelor’s in Electrical & Computer Engineering
 Jijiga University, Institute of Technology (JJU), Ethiopia | September 2016 - January 2021
 Focused on Power Engineering, acquiring deep expertise in electrical systems, power generation, and distribution.
+
 
 💻 Tech Proficiencies
 Core Technologies: HTML, CSS, JavaScript, React, Node.js, MySQL
