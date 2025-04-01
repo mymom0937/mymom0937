@@ -5,15 +5,11 @@ A passionate Full-Stack Developer and Problem Solver who thrives on crafting eff
 
 🛠️ Technologies & Tools
 
-Frontend
-React | Redux | JavaScript
-Bootstrap | Material UI | CSS | HTML
-Backend
-Node.js | Express.js
-MySQL | MongoDB
-Other Tools
-Git | GitHub | Postman
-Responsive Design | RESTful APIs | Authentication (JWT, OAuth)
+Frontend: React | Redux | JavaScript | Bootstrap | Material UI | CSS | HTML | Tailwind | Next.js
+
+Backend: Node.js | Express.js | MySQL | MongoDB
+
+Other Tools: Git | GitHub | Postman | Responsive Design | RESTful APIs | Authentication (JWT, OAuth)
 
 📚 Education
 
