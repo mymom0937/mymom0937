@@ -36,6 +36,18 @@ Passions: Open-source contributions, Collaborative projects, Lifelong learning
 
 🔥 Key Projects
 
+🏥 St. Petros Hospital Website: The St. Petros Hospital Management System is a full-stack web application designed to streamline hospital operations and boost administrative efficiency. It features a modern, responsive interface and robust data management capabilities.
+
+Tech Stack: React.js, Node.js, Express.js, MySQL
+
+🔗 https://kpsh.gov.et/ | https://github.com/minteka96/St.petros-hospital-Project
+
+✅ Todo List App: The Todo List Application is a full-stack task management platform built with Next.js, Tailwind CSS, and MongoDB Atlas. It offers a clean, responsive interface and efficient task tracking with secure data management.
+
+Tech Stack: Next.js, Tailwind CSS, MongoDB Atlas
+
+🔗 https://todo-next-apps.vercel.app/ | https://github.com/mymom0937/Todo-Next-App
+
 🚗 Garage Management System: 
 A complete solution for managing garage operations with employee, customer, and vehicle tracking.
 Tech Stack: Node.js, Express.js, MySQL, React, Bootstrap
