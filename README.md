@@ -21,17 +21,15 @@ Gained comprehensive full-stack skills, starting with front-end basics, progress
 Master’s in Electrical Power & Control Engineering
 Adama Science and Technology University (ASTU), Ethiopia | September 2021 - December 2023
 
-Specialized in Power Systems Engineering, developing advanced knowledge in power system control and analysis.
-
 Bachelor’s in Electrical & Computer Engineering
 Jijiga University, Institute of Technology (JJU), Ethiopia | September 2016 - January 2021
 
-Focused on Power Engineering, acquiring deep expertise in electrical systems, power generation, and distribution.
-
 💻 Tech Proficiencies
 
-Core Technologies: HTML, CSS, JavaScript, React, Node.js, MySQL
+Core Technologies: HTML, CSS, JavaScript, React, Next.js, Node.js, MySQL, MongoDB, Tailwind CSS
+
 Current Focus: API development, Authentication systems, Optimized deployments
+
 Passions: Open-source contributions, Collaborative projects, Lifelong learning
 
 🔥 Key Projects
