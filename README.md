@@ -24,14 +24,6 @@ Adama Science and Technology University (ASTU), Ethiopia | September 2021 - Dece
 Bachelor’s in Electrical & Computer Engineering
 Jijiga University, Institute of Technology (JJU), Ethiopia | September 2016 - January 2021
 
-💻 Tech Proficiencies
-
-Core Technologies: HTML, CSS, JavaScript, React, Next.js, Node.js, MySQL, MongoDB, Tailwind CSS
-
-Current Focus: API development, Authentication systems, Optimized deployments
-
-Passions: Open-source contributions, Collaborative projects, Lifelong learning
-
 🔥 Key Projects
 
 🏥 St. Petros Hospital Website: The St. Petros Hospital Management System is a full-stack web application designed to streamline hospital operations and boost administrative efficiency. It features a modern, responsive interface and robust data management capabilities.
