@@ -1,4 +1,4 @@
-👋 Hello, I'm Seid Endris!
+👋 Hello, I'm Seid Endris Ali!
 
 A passionate Full-Stack Developer and Problem Solver who thrives on crafting efficient, scalable web applications that connect cutting-edge technology with real-world functionality. Welcome to my profile!
 
