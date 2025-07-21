@@ -5,9 +5,9 @@ A passionate Full-Stack Developer and Problem Solver who thrives on crafting eff
 
 🛠️ Technologies & Tools
 
-Frontend: React | Redux | JavaScript | Bootstrap | Material UI | CSS | HTML | Tailwind | Next.js
+Frontend: React | Redux | JavaScript | TypeScript | Bootstrap | Material UI | CSS | HTML | Tailwind | Next.js
 
-Backend: Node.js | Express.js | MySQL | MongoDB
+Backend: Node.js | Express.js | MySQL | MongoDB | PostgreSQL | Firebase | Stripe
 
 Other Tools: Git | GitHub | Postman | Responsive Design | RESTful APIs | Authentication (JWT, OAuth)
 
@@ -25,6 +25,13 @@ Bachelor’s in Electrical & Computer Engineering
 Jijiga University, Institute of Technology (JJU), Ethiopia | September 2016 - January 2021
 
 🔥 Key Projects
+
+🛒 EzCart E-Commerce Platform:
+EzCart is a full-stack e-commerce web application designed to deliver a seamless online shopping experience. It features a modern, responsive interface, secure authentication, real-time order tracking, and robust product management for both customers and sellers. The platform supports wishlist, cart, and order management, and is optimized for performance and scalability.
+
+Tech Stack: Next.js, Clerk (Authentication), Inngest (Background Jobs), MongoDB Atlas, Tailwind CSS
+
+🔗 https://ezcart-app.vercel.app/ | https://github.com/mymom0937/Full-Stack-E-Commerce-App
 
 🏥 St. Petros Hospital Website: The St. Petros Hospital Management System is a full-stack web application designed to streamline hospital operations and boost administrative efficiency. It features a modern, responsive interface and robust data management capabilities.
 
