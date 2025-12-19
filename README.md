@@ -26,6 +26,13 @@ Jijiga University, Institute of Technology (JJU), Ethiopia | September 2016 - Ja
 
 🔥 Key Projects
 
+🏥 Eman Medium Clinic – Integrated Care Platform  
+A full-stack, role-based clinic management system designed to streamline healthcare operations. The platform supports patient intake, nurse-driven lab requests, laboratorist result management, inventory tracking, direct pharmacy sales, walk-in services, and payment handling. The system is secured using Clerk authentication with webhooks and is optimized for performance and scalability using MongoDB Atlas.
+
+Tech Stack: Next.js, TypeScript, Tailwind CSS, Clerk, MongoDB Atlas, Mongoose, SWR
+
+🔗 Live: https://eman-medium-clinic.vercel.app/ | GitHub: https://github.com/mymom0937/Eman-Medium-Clinic
+
 🛒 EzCart E-Commerce Platform:
 EzCart is a full-stack e-commerce web application designed to deliver a seamless online shopping experience. It features a modern, responsive interface, secure authentication, real-time order tracking, and robust product management for both customers and sellers. The platform supports wishlist, cart, and order management, and is optimized for performance and scalability.
 
